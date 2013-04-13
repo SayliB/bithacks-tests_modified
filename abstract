@@ -1,0 +1,21 @@
+
+
+  This is "bithacks.h" C header file and it contains various macros for bit
+manipulations. It's accompanied with "bithacks-test.c", which tests all the
+macros.
+
+  In addition, the user interface is provided for inputing the test cases, 
+related to bit manipulation.
+
+It was written by Peteris Krumins and modified by 
+1. Prathamesh Deshpande ( prathameshsdeshpande@gmail.com ), 
+2. Miss Sayli Bodhale( sayalibodhale@gmail.com ) and 
+3. Digvijay Deshmukh ( digvijaydeshmukh89@gmail.com). 
+
+------------------------------------------------------------------------------
+
+Table of contents:
+    [1] Macros in bithacks.h file
+    [2] The test program bithacks-test.c
+
+------------------------------------------------------------------------------
